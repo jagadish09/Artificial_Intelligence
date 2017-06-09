@@ -1,0 +1,5 @@
+/home/johnson/Downloads/AI FINAL/ale_1/CMakeFiles/ale-bin.dir
+/home/johnson/Downloads/AI FINAL/ale_1/CMakeFiles/ale-c-lib.dir
+/home/johnson/Downloads/AI FINAL/ale_1/CMakeFiles/ale-lib.dir
+/home/johnson/Downloads/AI FINAL/ale_1/CMakeFiles/sharedLibraryInterfaceExample.dir
+/home/johnson/Downloads/AI FINAL/ale_1/CMakeFiles/videoRecordingExample.dir
