@@ -1,29 +1,3 @@
-# your_Agents.py
-# ---------
-# COSC4550/COSC5550
-# Artificial Intelligence
-# University of Wyoming
-# ---------
-# Most code was part of the Pacman AI projects by John DeNero and Dan Klein
-# Code has been modified for the Cleaning Agents AI Challenge by Joost Huizinga
-# Licensing Information: Please do not distribute or publish solutions to this
-# project. You are free to use and extend these projects for educational
-# purposes. The Pacman AI projects were developed at UC Berkeley, primarily by
-# John DeNero (denero@cs.berkeley.edu) and Dan Klein (klein@cs.berkeley.edu).
-# For more info, see http://inst.eecs.berkeley.edu/~cs188/sp09/pacman.html
-
-"""
-This file contains all of the agents that can be selected to 
-control our cleaner robot.  To select an agent, use the '-p' option
-when running cleaner.py. 
-
-Please only change the parts of the file you are asked to.
-Look for the lines that say
-
-# YOUR CODE HERE #
-
-Good luck!
-"""
 from game import Directions
 from game import Agent
 from game import RobotActions
